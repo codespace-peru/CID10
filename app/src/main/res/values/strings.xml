@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CIE 10</string>
-    <string name="main_title_app">Clasificación Internacional de Enfermedades</string>
-    <string name="search_title">Resultados encontrados</string>
-    <string name="action_settings">Configuración</string>
-    <string name="action_voz">Búsqueda por Voz</string>
-    <string name="title_activity_text">TextActivity</string>
-    <string name="add_favorites">Agregar a Favoritos</string>
-    <string name="del_favorites">Eliminar de Favoritos</string>
+    <string name="app_name">CID 10</string>
+    <string name="search_title">Procurar resultados</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_voz">Pesquisa por voz</string>
+    <string name="my_favorites">Meus Favoritos</string>
+    <string name="add_favorites">Adicionar aos favoritos</string>
+    <string name="del_favorites">Remover dos favoritos</string>
+    <string name="sin_ocurrencias">Nenhuma ocorrência encontrada</string>
+    <string name="una_ocurrencia">Uma ocorrência é mostrado</string>
+    <string name="show_ocurrencias1">Mostrando</string>
+    <string name="show_ocurrencias2">ocorrências de</string>
+    <string name="text_add_favorites">foi adicionado aos seus favoritos</string>
+    <string name="text_del_favorites">foi removido dos favoritos</string>
+    <string name="text_none_favorites">Eles não encontraram favoritos</string>
     <string name="action_favorites">Favoritos</string>
-    <string name="action_search">Buscar</string>
-    <string name="title_activity_search">SearchActivity</string>
+    <string name="action_search">Pesquisa</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="title_ok">OK</string>
+    <string name="share_description">Experimente este aplicativo sobre códigos da Classificação Internacional de Doenças 10ª edição.</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4549935446415170/1331124441</string>
+    <string name="seguimiento_analitycs_id">UA-49891510-11</string>
+    <string name="dummy_text">test</string>
 </resources>
